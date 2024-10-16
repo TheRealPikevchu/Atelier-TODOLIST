@@ -1,0 +1,6 @@
+[submodule "totolist"]
+	path = totolist
+	url = https://github.com/gducampus/totolist.git
+[submodule "todos-front"]
+	path = todos-front
+	url = https://github.com/gducampus/todos-front.git
