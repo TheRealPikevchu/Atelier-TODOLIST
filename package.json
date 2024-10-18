@@ -1,0 +1,15 @@
+{
+    "name": "todolist-package",
+    "devDependencies": {
+        "standard": "*"
+    },
+    "scripts": {
+        "test": "standard && node my-tests.js"
+    },
+
+    "standard":{
+        "ignore": [
+            "**/totolist/"
+        ]
+    }
+}
