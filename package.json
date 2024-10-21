@@ -6,10 +6,12 @@
     "scripts": {
         "test": "standard && node my-tests.js"
     },
-
-    "standard":{
+    "standard": {
         "ignore": [
             "**/totolist/"
         ]
+    },
+    "dependencies": {
+        "gridstack": "^11.0.0"
     }
 }
